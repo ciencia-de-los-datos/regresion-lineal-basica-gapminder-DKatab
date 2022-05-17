@@ -5,12 +5,8 @@ Regresión Lineal Univariada
 En este laboratio se construirá un modelo de regresión lineal univariado.
 
 """
-from re import X
-from tkinter import Y
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
 
 
 def pregunta_01():
